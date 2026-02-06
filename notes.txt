@@ -1,0 +1,3 @@
+Github is Easy, safe, a reliable when it comes to web devolepment.
+Git acts like a Photo Album, Each commit is like a snapshot
+Git is like a workshop, You have a consistent workflow tht has a consistent finish everytime.
